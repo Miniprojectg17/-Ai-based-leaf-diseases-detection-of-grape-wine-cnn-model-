@@ -1,2 +1,9 @@
-# AI-Based-Grape-leaves-Detection-using-CNN
-This repository provides a CNN-based model for detecting grape leaves in images, supporting applications in agriculture like monitoring plant health and disease detection. It includes datasets, model training scripts, and deployment code. The model offers high accuracy in grape leaf identification and is easy to extend for other agricultural uses.
+Grapevine Leaf Disease Detection Using CNN
+This project uses a Convolutional Neural Network (CNN) to detect diseases in grapevine leaves, aiding early identification and effective treatment. The model classifies leaf images into four categories: Black Rot, Esca (Black Measles), Leaf Blight, and Healthy.
+
+Key Highlights:
+Dataset: Images of grapevine leaves, preprocessed with resizing, normalization, and augmentation.
+Model: CNN architecture with convolutional layers for feature extraction and softmax output for classification.
+Performance: Achieves high accuracy and robustness in identifying leaf diseases.
+Usage:
+Upload a grapevine leaf image, and the model predicts the disease class, enabling timely intervention to improve crop health and yield.
